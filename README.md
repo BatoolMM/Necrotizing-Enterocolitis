@@ -7,4 +7,8 @@ This is reproducibility exercise for a metagenomic study on Necrotizing Enteroco
 
 I'm using lxc cluster in the University of Liverpool. You can srt up the enviroment using: 
 
-`. env.sh`
+```
+cd /volatile/batool/KAIMRC/Necrotizing_enterocolitis
+
+. env.sh
+```
