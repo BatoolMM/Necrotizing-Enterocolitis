@@ -12,3 +12,9 @@ cd /volatile/batool/KAIMRC/Necrotizing_enterocolitis
 
 . env.sh
 ```
+or if you aren't using lxc, you can run:
+
+```
+conda env create -f environment.yml
+
+```
